@@ -1,2 +1,2 @@
 # NatshaBase
-NIR 2 repo for auto-filled knowledge base based on yargy-parser
+This application is part of a research project to create an auto-replenishing knowledge base based on a Yargy parser for parsing natural language.
